@@ -32,4 +32,6 @@ The software is written Python 3.6 in depends few libraries. We developed the so
 - jupyter 1.0.0
 
 ## Dataset
-The NPD predictor is designed to work 
+The NPD predictor is designed for the Instacart Dataset, which was released for a Kaggle competition. The dataset along with information regarding the data is available at https://www.kaggle.com/c/instacart-market-basket-analysis. For the NPD predictor to work, the unzipped folder containing the dataset should be downloaded to the root folder of the repository.
+
+
